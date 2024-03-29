@@ -9,6 +9,7 @@
  
 }
 
+
 .container{
     cursor:zoom-out;
 }
@@ -298,6 +299,322 @@ align-self: flex-end;
     border-color: #FF9412;
     width: 120px;
     height: 45px;
+    
+}
+@media screen and (min-width:280px)and (max-width:1400px){
+    #topbar{
+        display: wrap;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    
+#worldd{
+        border: none;
+}
+
+
+    .part-1{
+        background-image: url("./images/explore.jpeg");
+        width: 345px;
+        height: 508px;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+        background-size: cover;
+        
+       }
+       
+       .container{
+           cursor:zoom-out;
+       }
+       
+       #travell{
+           font-size: 1.8em;
+       }
+       
+       #details{
+        text-align: center;
+
+       }
+       
+       
+       #next{
+           font-size:1em;
+       }
+       
+       #button2{
+           padding: 5px;
+           width: 100px;
+           border-radius: 25px;
+           background-color: #FF9412;
+           color: white;
+           font-weight: bolder;
+           border-color: #FF9412;
+       }
+       
+       .experience-life{
+           text-align: center;
+           color: white;
+       }
+       
+       #grand{
+           inline-size: 345px;
+           block-size:250px;
+           border-radius: 15px;
+       }
+       
+       #bora{
+           inline-size: 345px;
+           block-size: 250px;
+           border-radius: 15px;
+       }
+       
+       .dive{
+           text-align: center;
+           margin-top: 1%;
+           font-size: 0.8em;
+       }
+       
+       .sites{
+           display: wrap;
+           flex-direction: column;
+           
+       }
+       
+       #ankor{
+           border-radius: 15px;
+           inline-size: 345px;
+           block-size: 250px;
+       }
+       
+       #arrows{
+           display: wrap;
+           justify-content: center;
+           border: none;
+           
+       }
+       
+       #unique-features{
+           text-align: center;
+           font-size: 0.9em;
+           margin-block-start: 3.5%;
+       }
+       
+       
+       .benefits{
+           display: wrap;
+           flex-direction: column;
+           
+           
+          
+       }
+       
+       #countries{
+           display: wrap;
+          justify-content: center;
+          gap: 0px;
+          flex-direction: column;
+         
+          margin-top: 0.5%;
+       
+       }
+       
+       #top-des{
+           text-align: center;
+           display:wrap;
+          
+       }
+       
+       .countries-images{
+           
+           display: wrap;
+           flex-direction: column;
+       }
+       
+       #florence{
+           block-size: 203px;
+           inline-size: 222px;
+           border-radius: 15px;
+       }
+       
+       #venice{
+           block-size: 200px;
+           inline-size: 222px;
+           border-radius: 15px;
+           margin-top: 1.8%;
+       }
+       
+       #porto{
+           block-size: 200px;
+            inline-size: 222px;
+            border-radius: 15px;
+       
+       }
+       
+       #milan{
+           block-size: 200px;
+            inline-size: 222px;
+            border-radius: 15px;
+       }
+       
+       #rome{
+           block-size: 200px;
+           inline-size: 222px;
+           border-radius: 15px;
+           
+       }
+       
+       
+       
+       }
+       
+       #porto{
+           margin-left: -1%;
+       }
+       
+       #reviews{
+           display: wrap;
+           justify-content: space-between;
+           
+         
+       }
+       
+       #review{
+           align-self: flex-start;
+          
+       
+       }
+       
+       #arrows2{
+       align-self: flex-end;
+       }
+       
+       #reviews-general{
+           display: wrap;
+           justify-content: space-evenly;
+          
+       }
+       
+       #blog{
+           text-align: center;
+           
+       }
+       
+       #timeless{
+           background-image: url(./images/florence-tuscany.jpeg);
+           background-repeat: no-repeat;
+           block-size: 380px;
+            inline-size: 307px;
+       
+            color: white;     
+            
+       }
+       
+       #exploring{
+           display: wrap;
+           flex-direction: column;
+          
+           
+       
+       }
+       
+      
+       
+       #questions{
+           border: #FF9412;
+           border-radius: 15px;
+           color: white;
+           /* padding: 20px 0px 75px 35px; */
+           background-color:#FF9412; 
+           block-size: 150px;
+            inline-size: 245px;
+            font-size: 0.6em;
+           
+       }
+       
+       #questions{
+           display: wrap;
+           flex-direction: column;
+          
+       }
+       
+       #form{
+           color: black;
+           border-color: white;
+           background-color: white;
+           width:50px ;
+           height: 50px;
+           border-radius: 5px;
+           
+           
+           
+           
+       }
+       
+       #choose{
+           background-image: url(./images/adventure-3.jpeg);
+           block-size: 400px;
+           inline-size: 340px;
+           background-repeat: no-repeat;
+           position: relative;
+        background-size: cover;
+        text-align: center;
+        
+        color: white;
+       
+        
+         
+       }
+       
+       #choose-your-adventure{
+           font-size: 1.7em;
+           font-weight: lighter;
+       
+       }
+       
+       #footer{
+           display:wrap;
+           flex-direction: column;
+           list-style: none;
+          
+           
+            
+       }
+       
+       #Subscribe{
+           text-align: center;
+       }
+       
+       #button11{
+           width: 10%;
+           padding: 10px 165px 10px 5px;
+           border-color: orange;
+           border-radius: 20px;
+       }
+          
+       #topbar{
+           display: wrap;
+           justify-content: space-evenly;
+           background-color: white;
+           border-radius: 45px;
+           padding: 5px;
+       }
+       
+       #button3{
+           background-color: #FF9412;
+           color: white;
+           border-radius: 20px;
+           padding: 10px ;
+           border-color: #FF9412;
+           width: 70px;
+           height: 35px;
+           
+
+
+
+
+
     
 }
 
