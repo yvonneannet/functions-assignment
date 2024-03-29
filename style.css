@@ -1,0 +1,303 @@
+.part-1{
+ background-image: url("./images/explore.jpeg");
+ width: 1790px;
+ height: 608px;
+ background-repeat: no-repeat;
+ background-position: center;
+ position: relative;
+ background-size: cover;
+ 
+}
+
+.container{
+    cursor:zoom-out;
+}
+
+#travell{
+    font-size: 3.3em;
+}
+
+
+
+#next{
+    font-size:1.5em;
+}
+
+#button2{
+    padding: 15px;
+    width: 230px;
+    border-radius: 25px;
+    background-color: #FF9412;
+    color: white;
+    font-weight: bolder;
+    border-color: #FF9412;
+}
+
+.experience-life{
+    text-align: center;
+    color: white;
+}
+
+#grand{
+    inline-size: 448px;
+    block-size:324 px;
+    border-radius: 15px;
+}
+
+#bora{
+    inline-size: 448px;
+    block-size: 324px;
+    border-radius: 15px;
+}
+
+.dive{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.sites{
+    display: flex;
+    justify-content: space-evenly;
+    margin-block-start: 2.5%;
+}
+
+#ankor{
+    border-radius: 15px;
+    inline-size: 448px;
+    block-size: 324px;
+}
+
+#arrows{
+    display: flex;
+    justify-content: center;
+    border: none;
+    margin-block-start: 2%;
+}
+
+#unique-features{
+    text-align: center;
+    font-size: 1.6em;
+    margin-block-start: 3.5%;
+}
+
+
+.benefits{
+    display: flex;
+    justify-content: space-evenly;
+    margin-block-start: 3%;
+   
+}
+
+#countries{
+    display: flex;
+   justify-content: center;
+   gap: 35px;
+   margin-top: 2.5%;
+
+}
+
+#top-des{
+    text-align: center;
+}
+
+.countries-images{
+    margin-block-start: 2%;
+    display: flex;
+    margin-inline-start: 7%;
+    margin-inline-end: 7%;
+}
+
+#florence{
+    block-size: 323px;
+    inline-size: 622px;
+    border-radius: 15px;
+}
+
+#venice{
+    block-size: 323px;
+    inline-size: 622px;
+    border-radius: 15px;
+    margin-top: 1.8%;
+}
+
+#porto{
+    block-size: 658px;
+     inline-size: 496px;
+     border-radius: 15px;
+
+}
+
+#milan{
+    block-size: 317px;
+     inline-size: 368px;
+     border-radius: 15px;
+}
+
+#rome{
+    block-size: 317px;
+    inline-size: 368px;
+    border-radius: 15px;
+    margin-block-start: 3.5% ;
+}
+
+#mil-rom{
+margin-inline-start: 1.4%;
+
+}
+
+#flo-venice{
+margin-inline-end: -1%;
+
+}
+
+#porto{
+    margin-left: -1%;
+}
+
+#reviews{
+    display: flex;
+    justify-content: space-between;
+    margin-inline-start: 7%;
+    margin-inline-end: 7%;
+    margin-top: 5%;
+}
+
+#review{
+    align-self: flex-start;
+   
+
+}
+
+#arrows2{
+align-self: flex-end;
+}
+
+#reviews-general{
+    display: flex;
+    justify-content: space-evenly;
+    margin-block-start: 2.5%;
+}
+
+#blog{
+    text-align: center;
+    margin-block-start: 6%;
+    margin-bottom: 3%;
+}
+
+#timeless{
+    background-image: url(./images/florence-tuscany.jpeg);
+    background-repeat: no-repeat;
+    block-size: 535px;
+     inline-size: 877px;
+
+     color: white;     
+     
+}
+
+#exploring{
+    display: flex;
+    margin-block-start: 2%;
+    margin-inline-start: 7%;
+    margin-inline-end: 7%;
+   
+    
+
+}
+
+#details{
+    margin-left: -14%;
+    margin-top: -2%;
+}
+
+#questions{
+    border: #FF9412;
+    border-radius: 15px;
+    color: white;
+    padding: 20px 0px 75px 35px;
+    background-color:#FF9412; 
+    block-size: 300px;
+     inline-size: 1513px;
+     margin-inline-start: 7%;
+    margin-inline-end: 7%;
+     
+}
+
+#questions{
+    display: flex;
+   
+}
+
+#form{
+    color: black;
+    border-color: white;
+    background-color: white;
+    width:400px ;
+    height: 1000px;
+    border-radius: 10px;
+    align-items: end;
+    margin-left: 600px;
+    margin-top: -90px;
+    margin-bottom: 80px;
+}
+
+#choose{
+    background-image: url(./images/adventure-3.jpeg);
+    block-size: 500px;
+    inline-size: 1900px;
+    background-repeat: no-repeat;
+    position: relative;
+ background-size: cover;
+ text-align: center;
+ margin-block-start: 6%;
+ color: white;
+ border-bottom: 20px;
+ 
+  
+}
+
+#choose-your-adventure{
+    font-size: 3.6em;
+    font-weight: lighter;
+
+}
+
+#footer{
+    display:flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-top: 3.5%;
+    /* //margin-inline-start: 7%;
+    //margin-inline-end: 7%; */
+     
+}
+
+#Subscribe{
+    text-align: center;
+}
+
+#button11{
+    width: 20%;
+    padding: 15px 265px 15px 10px;
+    border-color: orange;
+    border-radius: 20px;
+}
+   
+#topbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 45px;
+    padding: 5px;
+}
+
+#button3{
+    background-color: #FF9412;
+    color: white;
+    border-radius: 20px;
+    padding: 10px ;
+    border-color: #FF9412;
+    width: 120px;
+    height: 45px;
+    
+}
+
